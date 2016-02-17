@@ -1,1 +1,3 @@
-# first_github
+# first Github
+# learning Github
+# Gavyn Caldwell
